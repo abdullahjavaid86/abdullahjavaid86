@@ -7,7 +7,7 @@
 </h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahjavaid86&show_icons=true&theme=dark&title_color=ffffff&text_color=c9c9c9&locale=en&layout=compact" alt="abdullahjavaid86" /></p>
 
-- 🔭 I’m currently working on [vc-tect](https://be-addy.com)
+- 🔭 I’m currently working on [open.ai and chatgpt](https://openai.com)
 
 - 🌱 I’m currently learning **NestJS, VueJs and To Build a Space Ship**
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Any Project to transform your physical world into digital**
 
-- 💬 Ask me about **react, vue, node, laravel, linux/unix, motorcycles and many more...**
+- 💬 Ask me about **React, Vue, Node, Laravel, Linux/UNIX, Motorcycles, and many more...**
 
 - 📫 How to reach me **dev.abdullahjavaid86@gmail.com**
 
