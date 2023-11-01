@@ -44,6 +44,8 @@
   </a> 
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahjavaid86&theme=default" alt="abdullahjavaid86" width="500"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahjavaid86&show_icons=true&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&cache_seconds=1800&locale=en" alt="abdullahjavaid86" width="500" height="196.97"/>
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahjavaid86&theme=default" alt="abdullahjavaid86" width="500"/>
 </p>
